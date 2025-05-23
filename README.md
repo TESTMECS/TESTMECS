@@ -3,7 +3,7 @@
 
 #### 🐾 Pet Projects
 - 🃏 [durak](https://github.com/TESTMECS/durak) -> play durak in your terminal against opponents of increasing difficulty
-- 🗣 [seq2seq](https://github.com/TESTMECS/seq2seq) -> run a seq2seq model to translate languges base don the [IWSLT2017 dataset](https://huggingface.co/datasets/IWSLT/iwslt2017)
+- 🗣 [seq2seq](https://github.com/TESTMECS/seq2seq) -> run a seq2seq model to translate languges based on the [IWSLT2017 dataset](https://huggingface.co/datasets/IWSLT/iwslt2017)
 
 #### 📧 Contact
 ```
