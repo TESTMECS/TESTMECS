@@ -1,5 +1,5 @@
 #### 📌 [Now](https://nownownow.com/about)
- - Reading: [1](https://link.springer.com/book/10.1007/978-3-031-84837-7) [2](https://www.amazon.com/Elevating-Machine-Learning-Techniques-Mastering/dp/B0DCJX4WX1) [3](https://github.com/PacktPublishing/Spring-System-Design-in-Practice/tree/main)
+ - Reading: [1](https://link.springer.com/book/10.1007/978-3-031-84716-5) [2](https://www.taylorfrancis.com/books/mono/10.1201/9781003451860/python-mathematics-vincent-knight) [3](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 #### 🐾 Pet Projects
 - 🃏 [durak](https://github.com/TESTMECS/durak) -> play durak in the terminal against a computer opponent
